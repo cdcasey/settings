@@ -1,0 +1,24 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"default_line_ending": "system",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"show_full_path": true,
+	"trim_trailing_white_space_on_save": true
+}
